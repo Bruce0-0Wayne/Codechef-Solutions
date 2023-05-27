@@ -22,9 +22,6 @@ The repository follows a structured folder hierarchy, making it easy to navigate
 .
 ├── Difficulty-name
 │   ├── problem-code
-│   │   ├── problem-statement.md
-│   │   ├── input-specification.md
-│   │   ├── output-specification.md
 │   │   └── solution.cpp
 │   └── ...
 └── ...
@@ -33,10 +30,7 @@ The repository follows a structured folder hierarchy, making it easy to navigate
 - The `Difficulty-name` directory represents level of difficulty of problems on CodeChef.
 - Within each contest directory, you'll find individual `problem-code` folders corresponding to the problem's unique identifier.
 - Each problem folder contains the following files:
-  - `problem-statement.md`: The problem statement describing the task and requirements.
-  - `input-specification.md`: The specifications for the input format.
-  - `output-specification.md`: The specifications for the output format.
-  - `solution.cpp` (or other programming language files): The solution code to the problem.
+   - `solution.cpp` (or other programming language files): The solution code to the problem.
 
 ## How to Use
 
