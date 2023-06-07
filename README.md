@@ -21,11 +21,8 @@ The repository follows a structured folder hierarchy, making it easy to navigate
 ```
 .
 ├── Difficulty-name
-│   ├── problem-code
-│   │   └── solution.cpp
-│   └── ...
-└── ...
-```
+    ├── problem-code
+        └── solution.cpp
 
 - The `Difficulty-name` directory represents level of difficulty of problems on CodeChef.
 - Within each contest directory, you'll find individual `problem-code` folders corresponding to the problem's unique identifier.
